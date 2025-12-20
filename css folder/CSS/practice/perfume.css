@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1A3C64;
+        font-family: "Playfair Display", serif;
+        font-size: 2rem;
+    
+}
+
+.spaced{
+    float: right;
+    border-radius: 200px;
+}
+
+ul{
+    color: white;
+    font-style: italic;
+    background-color: #0A2A44;
+    border-radius: 100px;
+    width: 50%;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    list-style-type: none;
+}
+.edit{
+    display:block;
+    color:#E3C46E;
+    
+}
+.items{
+    font-size: 16px;
+    padding: 30px;
+    color: white;
+}
+.change{
+    color: #E3C46E;
+    font-size:16.8px;
+    word-spacing:1ch;
+    padding:0 40px 0 40px ;
+    
+}
+.cent{
+    text-align: center;
+    padding: 30px;
+    margin-top: 200px;
+    margin-left: 450px;
+    color: #E3C46E;
+    font-style: italic;
+}
+.diff{
+    margin-left: 400px;
+}
+.one{
+    border-radius: 50px;
+    margin-right: 50px;
+}
+.two{
+    border-radius: 50px;
+}
+.three{
+    border-radius: 50px;
+   margin-left: 50px;
+}
+.fave{
+    margin-left: 400px;
+    padding-top: 30px;
+}
+.four{
+    border-radius:50px ;
+    margin-right: 50px;
+}
+.five{
+    border-radius: 50px;
+}
+.seven{
+    border-radius: 50px;
+    margin-left:50px ;
+}
+h2{
+    color:#E3C46E ;
+    text-align: center;
+    padding: 50px;
+    margin-right: 400px;
+    border: 50px;
+    background-color:#0A2A44;
+    opacity: 0.50;
+    font-style: italic;
+    width: 100%;
+}
+.price{
+    position: relative;
+    bottom: 450px;
+    left: 470px;
+    color:white;
+}
