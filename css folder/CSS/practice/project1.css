@@ -666,7 +666,7 @@ footer{
     display: grid;
     place-content: center;
     font-size: var(--fs-xl);
-}
+}*/
 *{
     padding: 0;
     margin: 0;
@@ -901,4 +901,3 @@ nav a:focus{
    padding: 15px;
    text-align: center;
 }
-*/
